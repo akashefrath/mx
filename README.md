@@ -12,3 +12,4 @@ India's best  Streaming Platform MxPlayer's Lightweight Unofficial API, which ca
 4) Deploy
 
 # Star this Repo if you Liked it ⭐⭐⭐
+https://heroku.com/deploy?template=https://github.com/akashefrath/mx
